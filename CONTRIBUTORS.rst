@@ -12,6 +12,7 @@ Contributors
 * Fil <fil@rezo.net>
 * Greeshma <https://github.com/greeshmab>
 * John Giannelos <johngiannelos@gmail.com>
+* Mathias Bustamante <mathiasbc@gmail.com>
 * Mathieu Agopian <mathieu@agopian.info>
 * Mathieu Leplatre <mathieu@mozilla.com>
 * Michiel de Jong <michiel@unhosted.org>
